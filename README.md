@@ -1,1 +1,5 @@
-![ee6fde84011911665995018f6ad74d82](https://github.com/user-attachments/assets/e476448e-1cab-47c0-89d5-8901e0069929)
+<h2 align="center">カ Hey there, i'm developer and designer</h2>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/07135e9e-9236-44f9-ab84-91004b39eb51" height="100" />
+</p>
