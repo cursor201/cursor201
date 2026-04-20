@@ -1,7 +1,7 @@
 <h2 align="center">カ Hey there, i'm developer and designer</h2>
 
 <p align="left">
-<img src="https://i.imgur.com/uPjCmcJ.png" height="100" />
+<img src="https://i.imgur.com/uPjCmcJ.png" height="500" />
 </p>
 
 <p align="center">
