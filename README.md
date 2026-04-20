@@ -3,11 +3,6 @@
 <p align="left">
 <img src="https://i.imgur.com/uPjCmcJ.png" height="360" />
 <img src="https://i.imgur.com/bifyL7z.png" height="360" />
-</p>
-<p align="center">
-<img src="https://i.imgur.com/bifyL7z.png" height="360" />
-</p>
-<p align="right">
 <img src="https://i.imgur.com/vVgEDfM.png" height="360" />
 </p>
 
