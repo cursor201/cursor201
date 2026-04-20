@@ -1,5 +1,9 @@
 <h2 align="center">カ Hey there, i'm developer and designer</h2>
 
+<p align="left">
+<img src="https://i.imgur.com/uPjCmcJ.png" height="100" />
+</p>
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/07135e9e-9236-44f9-ab84-91004b39eb51" height="100" />
 </p>
