@@ -1,7 +1,13 @@
 <h2 align="center">カ Hey there, i'm developer and designer</h2>
 
 <p align="left">
-<img src="https://i.imgur.com/uPjCmcJ.png" height="500" />
+<img src="https://i.imgur.com/uPjCmcJ.png" height="400" />
+</p>
+<p align="center">
+<img src="https://i.imgur.com/bifyL7z.png" height="400" />
+</p>
+<p align="right">
+<img src="https://i.imgur.com/vVgEDfM.png" height="400" />
 </p>
 
 <p align="center">
